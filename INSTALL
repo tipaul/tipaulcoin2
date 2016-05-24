@@ -1,0 +1,9 @@
+Building TipaulCoin
+
+See doc/readme-qt.md for instructions on building TipaulCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TipaulCoin.
+
+See doc/build-*.md for instructions on building tipaulcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TipaulCoin.
