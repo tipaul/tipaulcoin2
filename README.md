@@ -1,7 +1,7 @@
 TipaulCoin integration/staging tree
 ================================
 
-http://www.tipaulcoin.org
+http://www.tipaulcoin.com
 
 Copyright (c) 2009-2013 TipaulCoin Developers
 
