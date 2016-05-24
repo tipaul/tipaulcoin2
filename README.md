@@ -1,4 +1,4 @@
-TipaulCoin integration/staging tree
+TipaulCoin 
 ================================
 
 http://www.tipaulcoin.com
