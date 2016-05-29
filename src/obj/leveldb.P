@@ -1,0 +1,24 @@
+obj/leveldb.o: leveldb.cpp leveldb.h serialize.h allocators.h version.h \
+ clientversion.h /tmp/TipaulCoin/src/leveldb/include/leveldb/db.h \
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/iterator.h \
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/slice.h \
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/status.h \
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/options.h \
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/write_batch.h util.h \
+ uint256.h netbase.h compat.h \
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/env.h \
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/cache.h \
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/filter_policy.h \
+ /tmp/TipaulCoin/src/leveldb/helpers/memenv/memenv.h
+leveldb.cpp leveldb.h serialize.h allocators.h version.h :
+ clientversion.h /tmp/TipaulCoin/src/leveldb/include/leveldb/db.h :
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/iterator.h :
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/slice.h :
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/status.h :
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/options.h :
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/write_batch.h util.h :
+ uint256.h netbase.h compat.h :
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/env.h :
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/cache.h :
+ /tmp/TipaulCoin/src/leveldb/include/leveldb/filter_policy.h :
+ /tmp/TipaulCoin/src/leveldb/helpers/memenv/memenv.h :
